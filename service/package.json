@@ -1,0 +1,16 @@
+{
+  "name": "service",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node dist/serve.js",
+    "build": "echo 'Not Implemented'",
+    "test": "echo 'Not Implemented'",
+    "lint": "echo 'Not Implemented'",
+    "e2e": "echo 'Not Implemented'"
+  },
+  "private": true,
+  "dependencies": {
+    "fast-xml-parser": "^3.12.16"
+  },
+  "devDependencies": {}
+}
